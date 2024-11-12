@@ -1,0 +1,21 @@
+#
+/all_checkpoints
+
+#
+/bert_pretrained
+
+#
+/finetune_save
+
+__pycache__/
+
+data/
+gin_pretrained/
+init_checkpoints/
+kvplm_pretrained/
+logs/
+output/
+test_weights.pth
+model/ptb.biaffine.dep.lstm.char
+# slurm
+*out
